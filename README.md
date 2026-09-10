@@ -1,6 +1,6 @@
 # Hi! I'm Alessandro Cídney :wave:
 
-A developer from Brazil with over 3 years of experience.
+A developer from Brazil with over 4 years of experience.
 
 ![Illustration with the text "Full Stack Developer"](./assets/images/tinified-banner.jpg)
 
