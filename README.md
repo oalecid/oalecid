@@ -60,6 +60,6 @@ A developer from Brazil with over 4 years of experience.
 ![Jira](https://img.shields.io/badge/Jira-%232580F7.svg?style=for-the-badge&logo=jira&logoColor=%23FFFFFF)
 
 ## Social media and other links
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230A63BC.svg?style=for-the-badge&logoColor=%23FFFFFF)](https://www.linkedin.com/in/acidn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231F10D7.svg?style=for-the-badge&logoColor=%23FFFFFF)](https://www.linksdoale.com.br)
-[![Medium](https://img.shields.io/badge/medium-%23FFFFFF.svg?style=for-the-badge)](https://acidn.medium.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230A63BC.svg?style=for-the-badge&logoColor=%23FFFFFF)](https://www.linkedin.com/in/oalecid)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231F10D7.svg?style=for-the-badge&logoColor=%23FFFFFF)](https://www.alecid.com)
+[![Medium](https://img.shields.io/badge/medium-%23FFFFFF.svg?style=for-the-badge)](https://medium.com/@oalecid)
